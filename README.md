@@ -1,10 +1,10 @@
 # GBA Bandicoot Page:
 
-bit.ly/gbabandicoot
+https://bit.ly/gbabandicoot
 
 # GBA Emulator Core Used:
 
 https://github.com/taisel/IodineGBA
 
 # Game Bandicoot website
-bit.ly/GameBandicoot
+https://bit.ly/GameBandicoot
