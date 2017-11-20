@@ -13,6 +13,5 @@ https://bit.ly/GameBandicoot
 Please report any issues to the issues tab as i read all issues and attempt to resolve them.
 
 # Coming Soon!!!!!111!!
-Submit Game Requests!
-Game Removal Requests!
+Game Removal Requests! (possibly, probably not tho.)
 IDK lol
